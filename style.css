@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(blue 0%, green 100%) ;
+    color:white;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
